@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376482137079",
+    "firebase_url": "https://firecast-app-83379.firebaseio.com",
+    "project_id": "firecast-app-83379",
+    "storage_bucket": "firecast-app-83379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376482137079:android:4245d23d15d0108b",
+        "android_client_info": {
+          "package_name": "ryan.howfarcanthisgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376482137079-0gof53mu6b0akct0o2406d90cg64hv59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ryan.howfarcanthisgo",
+            "certificate_hash": "E5DDBB3EE2784E65E92BF1B40D787A0DBA48F5F2"
+          }
+        },
+        {
+          "client_id": "376482137079-uf56nea0k8visepma83qkehp2divlm91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHF0epIl5DgQarQX9icCeLD-41vfmXlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376482137079-uf56nea0k8visepma83qkehp2divlm91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
